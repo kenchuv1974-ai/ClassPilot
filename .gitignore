@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/*/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Build artifacts
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# OS files
+Thumbs.db

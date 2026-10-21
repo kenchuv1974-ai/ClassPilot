@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">ClassPilot</string>
+
+    <!-- Navigation labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_timetable">Timetable</string>
+    <string name="nav_attendance">Attendance</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="good_morning">Good morning</string>
+    <string name="good_afternoon">Good afternoon</string>
+    <string name="good_evening">Good evening</string>
+    <string name="no_classes_today">No classes scheduled today</string>
+    <string name="next_class">Next Class</string>
+    <string name="classes_today">classes today</string>
+    <string name="attendance_summary">Attendance Summary</string>
+    <string name="low_attendance_warning">⚠️ Low Attendance Warning</string>
+
+    <!-- Attendance -->
+    <string name="mark_present">Mark Present</string>
+    <string name="mark_absent">Mark Absent</string>
+    <string name="mark_cancelled">Mark Cancelled</string>
+    <string name="attendance_percentage">Attendance Percentage</string>
+    <string name="classes_conducted">Classes Conducted</string>
+    <string name="classes_attended">Classes Attended</string>
+    <string name="classes_missed">Classes Missed</string>
+    <string name="target_attendance">Target Attendance</string>
+    <string name="safe_to_miss">Classes you can miss</string>
+    <string name="need_to_attend">Classes needed to reach target</string>
+
+    <!-- Notification Channels -->
+    <string name="channel_class_reminders">Class Reminders</string>
+    <string name="channel_class_reminders_desc">Reminders before upcoming classes</string>
+    <string name="channel_daily_timetable">Daily Timetable</string>
+    <string name="channel_daily_timetable_desc">Morning summary of today\'s classes</string>
+    <string name="channel_attendance_alerts">Attendance Alerts</string>
+    <string name="channel_attendance_alerts_desc">Low attendance warnings and pending entries</string>
+
+    <!-- Notification content -->
+    <string name="notification_class_in">%1$s starts in %2$s</string>
+    <string name="notification_class_starting">%1$s is starting now</string>
+    <string name="notification_tap_to_view">Tap to view class details</string>
+
+    <!-- Subjects -->
+    <string name="add_subject">Add Subject</string>
+    <string name="edit_subject">Edit Subject</string>
+    <string name="delete_subject">Delete Subject</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="subject_code">Subject Code (optional)</string>
+    <string name="faculty_name">Faculty Name (optional)</string>
+    <string name="classroom">Classroom / Room</string>
+    <string name="subject_type_theory">Theory</string>
+    <string name="subject_type_lab">Laboratory</string>
+    <string name="subject_type_tutorial">Tutorial</string>
+
+    <!-- Timetable -->
+    <string name="add_class">Add Class</string>
+    <string name="edit_class">Edit Class</string>
+    <string name="delete_class">Delete Class</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="class_type">Class Type</string>
+    <string name="today_classes">Today\'s Classes</string>
+    <string name="tomorrow_classes">Tomorrow\'s Classes</string>
+    <string name="no_classes_tomorrow">No classes scheduled tomorrow</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_system">System Default</string>
+    <string name="default_attendance_target">Default Attendance Target</string>
+    <string name="notifications_enabled">Enable Notifications</string>
+    <string name="morning_notification">Morning Timetable Notification</string>
+    <string name="morning_notification_time">Morning notification time</string>
+    <string name="evening_notification">Evening Tomorrow Preview</string>
+    <string name="student_name">Your Name</string>
+
+    <!-- Backup -->
+    <string name="backup_title">Backup &amp; Restore</string>
+    <string name="create_backup">Create Backup</string>
+    <string name="restore_backup">Restore Backup</string>
+    <string name="clear_all_data">Clear All Data</string>
+    <string name="backup_success">Backup created successfully</string>
+    <string name="restore_success">Data restored successfully</string>
+    <string name="restore_confirm">Restore will replace all current data. Continue?</string>
+    <string name="clear_confirm">This will permanently delete all your data. This cannot be undone. Continue?</string>
+
+    <!-- General -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="confirm">Confirm</string>
+    <string name="minutes">minutes</string>
+    <string name="hours">hours</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading…</string>
+    <string name="no_data">No data yet</string>
+</resources>
